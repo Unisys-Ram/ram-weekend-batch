@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hello
 few
 kjvwr
@@ -6,9 +5,12 @@ kjvwr
 welocome 
 yo devops
 a+b
-=======
 nicwj
 kjcw
 nkjwc
 a=b_c
->>>>>>> ram-unisys
+ram-unisys
+merge
+pull
+fetch
+
